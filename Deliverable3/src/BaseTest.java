@@ -14,7 +14,7 @@ public class BaseTest {
 	public WebDriver driver;
 	private WebDriverWait wait;
 	
-	private final boolean isWindows = false;
+	private final boolean isWindows = true;
 	private final boolean isFirefox = false;
 	private final boolean isChrome = true;
 	
